@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Flora s portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Florasol/portfolio-flo-8.git"
+  },
+  "keywords": [
+    "flo",
+    "portfolio"
+  ],
+  "author": "flora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Florasol/portfolio-flo-8/issues"
+  },
+  "homepage": "https://github.com/Florasol/portfolio-flo-8#readme"
+}
